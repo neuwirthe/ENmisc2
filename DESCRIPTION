@@ -1,11 +1,10 @@
 Package: ENmisc2
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Mixed function for handling Dates etc.
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Authors@R: person("Erich","Neuwirth",email="erich.neuwirth@univie.ac.at",role=c("aut","cre"))
+Maintainer: Erich Neuwirth <erich.neuwirth@univie.ac.at>
+Description: Diverse utility functions for producing German documents
+License: `use_mit_license()`
 Encoding: UTF-8
 LazyData: true

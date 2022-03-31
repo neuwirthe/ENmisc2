@@ -1,10 +1,11 @@
 Package: ENmisc2
 Type: Package
-Title: Mixed function for handling Dates etc.
+Title: Erich Neuwirth's Utility functions 
 Version: 0.1.0
 Authors@R: person("Erich","Neuwirth",email="erich.neuwirth@univie.ac.at",role=c("aut","cre"))
 Maintainer: Erich Neuwirth <erich.neuwirth@univie.ac.at>
-Description: Diverse utility functions for producing German documents
-License: `use_mit_license()`
+Description: When creating German reports, some problems arise with dates and data formats. 
+    The functions in this package help to cope with these problems.
+License: MIT
 Encoding: UTF-8
 LazyData: true

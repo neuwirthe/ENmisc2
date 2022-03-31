@@ -6,6 +6,6 @@ Authors@R: person("Erich","Neuwirth",email="erich.neuwirth@univie.ac.at",role=c(
 Maintainer: Erich Neuwirth <erich.neuwirth@univie.ac.at>
 Description: When creating German reports, some problems arise with dates and data formats. 
     The functions in this package help to cope with these problems.
-License: MIT
+License: 'use_mit_license()'
 Encoding: UTF-8
 LazyData: true
